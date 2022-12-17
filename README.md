@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @syamsoul
-- 👀 I’m interested in System Development
-- 🌱 I'm always learning something new
+- 👀 I’m a fullstack developer (focusing on PHP/Laravel)
 - 📫 Reach me: +60139584638
 
 <!---
