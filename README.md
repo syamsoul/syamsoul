@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @syamsoul
-- 👀 I’m a fullstack developer (focusing on PHP/Laravel)
+- 👀 I’m a fullstack developer (focusing on PHP/Laravel, also VueJS)
 - 📫 Reach me: +60139584638
 
 <!---
