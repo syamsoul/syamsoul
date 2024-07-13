@@ -1,6 +1,6 @@
 Hi, I’m Syamsoul 👋
 
-
+.
 
 Skills & Experience:
   - Laravel: 6+ years
@@ -13,7 +13,8 @@ Skills & Experience:
   - JavaScript: 8+ years
   - CSS: 8+ years
   - MySQL: 7+ years
-  
+
+.
 
 Other Skills (Still learning):
   - NextJS
