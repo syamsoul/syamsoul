@@ -16,7 +16,8 @@ Skills & Experience:
 
 .
 
-Other Skills (Still learning):
+Other New Skills:
   - NextJS
   - Kubernetes & GKE
   - Docker Swarm
+  - CI/CD (Bitbucket Pipeline)
