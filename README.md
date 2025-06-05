@@ -40,7 +40,7 @@
 
 ## 📈 GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=syamsoul&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/syamsoul)
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=syamsoul&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/syamsoul) -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syamsoul&layout=compact&theme=radical&hide=html,css)](https://github.com/syamsoul)
 
 ---
