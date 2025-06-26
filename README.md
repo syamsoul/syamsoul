@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Syamsoul 
-
 **Full-Stack Developer** | **AI Integration Specialist** | **Web3 Enthusiast**  
 *Building intelligent web solutions for over 10 years*
 
