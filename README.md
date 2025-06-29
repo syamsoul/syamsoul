@@ -31,7 +31,7 @@
 
 ## 🚀 Current Focus
 
-- Exploring/experimenting in building scalable container orchestration (Kubernetes/GKE or Docker Swarm)
+- Exploring/experimenting in building scalable container orchestration
 - Exploring AI technology
 
 ---
